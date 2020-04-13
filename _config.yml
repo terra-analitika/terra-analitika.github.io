@@ -1,2 +1,4 @@
 	name: terra-analitika
 	markdown: kramdown
+
+theme: jekyll-theme-cayman
